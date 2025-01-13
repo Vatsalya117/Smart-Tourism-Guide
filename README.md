@@ -51,9 +51,7 @@ $ npm install
 ```
 ### Contributer
 <ul>
-  <li> <a href="https://github.com/Akbhobhiya">Ashok Bhobhiya</a> </li>
-  <li><a href="https://github.com/AsisRout">Asis Rout</a> </li>
-  <li><a href="https://github.com/Jeeukrishnan">Jeeukrishnan Kashyap </a> </li>
+  <li> <a href="(https://github.com/Vatsalya117)">Vatsalya Mishra</a> </li>
 </ul>
 <br>
 <ul>
