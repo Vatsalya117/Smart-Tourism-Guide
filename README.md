@@ -53,7 +53,6 @@ $ npm install
 <ul>
   <li> <a href="(https://github.com/Vatsalya117)">Vatsalya Mishra</a> </li>
 </ul>
-<br>
 <ul>
   <li>Wish to Contributing</li>
   <li>Please feel free to send a pull request or create an issue if you find any.</li>
